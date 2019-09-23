@@ -1,0 +1,2 @@
+Open Closed Principle - Closed for Modification but open for extension
+  Ex: FileReader - This class is a wrapper around FileInputStream
